@@ -1,0 +1,60 @@
+<deck version="0.8">
+	<meta>
+		<game>Saturday Morning Showdown</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="elbowclan">Elbow Clan</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="massproducedkatanas">Mass Produced Katanas</name><set>Core</set></card>
+		<card><name id="goldenpathscrolls">Golden Path Scrolls</name><set>Major</set></card>
+		<card><name id="rayofsunlight">Ray of Sunlight</name><set>Major</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="leaderintervnetion">Leader Intervention</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="masterhealing">Master Healing</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="denyentry">Deny Entry</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="expel">Expel</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="scare">Scare</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="dodge">Dodge</name><set>Core</set></card>
+		<card><name id="evade">Evade</name><set>Core</set></card>
+		<card><name id="evade">Evade</name><set>Core</set></card>
+		<card><name id="evade">Evade</name><set>Core</set></card>
+		<card><name id="recruitment">Recruitment</name><set>Core</set></card>
+		<card><name id="recruitment">Recruitment</name><set>Core</set></card>
+		<card><name id="recruitment">Recruitment</name><set>Core</set></card>
+	</superzone>
+	<superzone name="Initial Cards">
+		<card><name id="discipleofthegoldenpath,masterofthegoldenpath">Disciple of the Golden Path</name><set>Major</set></card>
+	</superzone>
+</deck>
